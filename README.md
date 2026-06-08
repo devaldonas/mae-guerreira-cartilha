@@ -41,7 +41,7 @@ O projeto tem como objetivo disponibilizar informações acessíveis e de qualid
 
 A página está publicada via GitHub Pages no link abaixo:
 
-🔗 **[https://SEU-USUARIO.github.io/mae-guerreira-cartilha/mae_guerreira.html](https://SEU-USUARIO.github.io/mae-guerreira-cartilha/mae_guerreira.html)**
+🔗 **[https://devaldonas.github.io/mae-guerreira-cartilha/mae_guerreira.html](https://devaldonas.github.io/mae-guerreira-cartilha/mae_guerreira.html)**
 
 ## Autor
 
